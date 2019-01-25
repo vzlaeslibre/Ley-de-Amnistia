@@ -3,10 +3,6 @@
 Para visualizar la **Ley de Amnistia** en formato PDF puede hacer clic [aquí](/src/law.pdf), 
 alternativamente puede descargarlo haciendo clic <a href="./src/law.pdf" download>aquí</a>.
 
-### Versión resumida
-...
-
-### Texto original
 
 **LEY DE AMNISTÍA Y GARANTÍAS CONSTITUCIONALES PARA LOSMILITARES Y CIVILES QUE COLABOREN L HAYAN COLABORADO CON LA RESTITUCIÓN DEL ORDEN CONSTITUCIONAL**
    
