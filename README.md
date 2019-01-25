@@ -1,7 +1,7 @@
 ## Bienvenidos
 
 Para visualizar la **Ley de Amnistia** en formato PDF puede hacer clic [aquí](/src/law.pdf), 
-alternativamente puede descargarlo haciendo clic <a href="/src/law.pdf" download>aquí</a>.
+alternativamente puede descargarlo haciendo clic <a href="./src/law.pdf" download>aquí</a>.
 
 ### Versión resumida
 ...
