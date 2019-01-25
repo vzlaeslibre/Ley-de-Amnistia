@@ -4,7 +4,7 @@ Para visualizar la **Ley de Amnistia** en formato PDF puede hacer clic [aquí](/
 alternativamente puede descargarlo haciendo clic <a href="./src/law.pdf" download>aquí</a>.
 
 
-**LEY DE AMNISTÍA Y GARANTÍAS CONSTITUCIONALES PARA LOSMILITARES Y CIVILES QUE COLABOREN L HAYAN COLABORADO CON LA RESTITUCIÓN DEL ORDEN CONSTITUCIONAL**
+**LEY DE AMNISTÍA Y GARANTÍAS CONSTITUCIONALES PARA LOS MILITARES Y CIVILES QUE COLABOREN O HAYAN COLABORADO CON LA RESTITUCIÓN DEL ORDEN CONSTITUCIONAL**
    
 **Exposición de Motivos**
 
@@ -136,7 +136,7 @@ militares, así como también a diputados y demás personas que para el momento 
 la entrada en vigencia de esta Ley, se encuentren detenidos, en el exilio o estén
 perseguidos judicialmente por razones políticas. A los efectos de la determinación
 de los hechos amnistiado de conformidad con este artículo, se tendrán en cuenta
-tanto los hechos investigados, como la lista de presos y perseguidos políticos que4
+tanto los hechos investigados, como la lista de presos y perseguidos políticos que
 lleva adelante la Asamblea Nacional; sin perjuicio a lo establecido en el artículo 29
 de la Constitución de la República Bolivariana de Venezuela.
 
