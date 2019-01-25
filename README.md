@@ -6,7 +6,8 @@ alternativamente puede descargarlo haciendo clic <a href="./src/law.pdf" downloa
 
 **LEY DE AMNISTÍA Y GARANTÍAS CONSTITUCIONALES PARA LOSMILITARES Y CIVILES QUE COLABOREN L HAYAN COLABORADO CON LA RESTITUCIÓN DEL ORDEN CONSTITUCIONAL**
    
-####Exposición de Motivos
+**Exposición de Motivos**
+
 La Amnistía es una gracia o beneficio de carácter excepcional, atribuida de manera
 expresa al Poder Legislativo en el numeral 5º del artículo 187 de la Constitución de
 la República Bolivariana de Venezuela, que consiste en excluir un hecho delictivo o
@@ -94,7 +95,7 @@ concreten los pasos para unas verdaderas elecciones presidenciales mediante
 votación universal, directa y secreta, revestida de todas las garantías democráticas.
 
 
-####LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA,
+**LA ASAMBLEA NACIONAL DE LA REPÚBLICA BOLIVARIANA DE VENEZUELA,**
 
 De conformidad con lo establecido en el artículo 187, numeral 5, de la Constitución
 de la República Bolivariana de Venezuela decreta la siguiente:
