@@ -4,6 +4,7 @@
 
 <a href="./src/law.pdf" download>Descargar Ley de Amnistia</a>
 
+<a href="#" onclick="window.print();return false;">Imprimir Ley de Amnistia</a>
 
 **LEY DE AMNISTÍA Y GARANTÍAS CONSTITUCIONALES PARA LOS MILITARES Y CIVILES QUE COLABOREN O HAYAN COLABORADO CON LA RESTITUCIÓN DEL ORDEN CONSTITUCIONAL**
    
